@@ -1,0 +1,19 @@
+.odd {
+  background-color: pink;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+#number2 {
+  font-family: sans-serif;
+  font-size: 38px;
+  color: blue;
+}
+.num3 {
+  font-size: 24px;
+}
+#number4 {
+  background-color: greenyellow;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
